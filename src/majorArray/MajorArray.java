@@ -38,7 +38,7 @@ public class MajorArray {
      for(int i=0;i<args.length;i++)
          System.out.print("argument" + i +" = " + args[i]+" "); */
 	 
-	 
+	System.out.println("Hola"); 
     
      
       }
