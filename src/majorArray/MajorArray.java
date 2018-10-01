@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class MajorArray {
  public static void main(String args[]){
-	 /*  int MaximArray=-9999;
+	   int MaximArray=-9999;
 	 
 	int a[]=new int[6]; //declaration and instantiation
      
@@ -36,7 +36,7 @@ public class MajorArray {
      
      System.out.println("Llistat d'arguments");
      for(int i=0;i<args.length;i++)
-         System.out.print("argument" + i +" = " + args[i]+" "); */
+         System.out.print("argument" + i +" = " + args[i]+" "); 
 	 
 	System.out.println("Hola"); 
     
